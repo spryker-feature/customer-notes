@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "~201903.0",
+    "spryker-feature/customer-account-management": "^201902.0",
     "spryker/customer-note": "^1.0.0",
     "spryker/customer-note-gui": "^1.0.2"
   }
