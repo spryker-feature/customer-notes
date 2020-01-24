@@ -6,8 +6,10 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "~2018.11.0",
     "spryker/customer-note": "^1.0.0",
     "spryker/customer-note-gui": "^1.0.0"
+  },
+  "suggest": {
+    "spryker-feature/customer-account-management": "Recommended feature dependency."
   }
 }
